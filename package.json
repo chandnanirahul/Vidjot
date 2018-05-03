@@ -1,7 +1,7 @@
 {
   "name": "vidjot3",
   "version": "1.0.0",
-  "description": "app to",
+  "description": "app to create video ideas",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
