@@ -1,0 +1,1 @@
+An application where content creators can register and jot down and manage ideas for future videos and meant to be an introduction where I explain everything about Express routing, middleware, templates, Mongoose, etc. We implement Passport and a local strategy where we store emails as usernames and encrypted passwords in our database.
